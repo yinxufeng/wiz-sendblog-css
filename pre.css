@@ -1,3 +1,5 @@
+/*editor.md*/
+/*code*/
 PRE {
 	MARGIN: 8px 0px
 }
@@ -57,4 +59,102 @@ PRE.linenums.prettyprint OL.linenums LI.L8 {
 }
 PRE.linenums.prettyprint OL.linenums LI.L9 {
 	LIST-STYLE-TYPE: decimal !important
+}
+CODE {
+	BORDER-TOP: #eaeaea 1px solid; BORDER-RIGHT: #eaeaea 1px solid; WHITE-SPACE: normal; BORDER-BOTTOM: #eaeaea 1px solid; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; PADDING-LEFT: 5px; BORDER-LEFT: #eaeaea 1px solid; MARGIN: 0px 2px; PADDING-RIGHT: 5px; BACKGROUND-COLOR: #f8f8f8; border-radius: 3px
+}
+CODE {
+	FONT-FAMILY: Consolas, "Liberation Mono", Menlo, Courier, monospace
+}
+.pln {
+	COLOR: #48484c
+}
+.str {
+	COLOR: #dd1144
+}
+.kwd {
+	COLOR: #1e347b
+}
+.com {
+	COLOR: #93a1a1
+}
+.typ {
+	COLOR: teal
+}
+.lit {
+	COLOR: #195f91
+}
+.pun {
+	COLOR: #93a1a1
+}
+.opn {
+	COLOR: #93a1a1
+}
+.clo {
+	COLOR: #93a1a1
+}
+.tag {
+	COLOR: #008
+}
+.atn {
+	COLOR: teal
+}
+.atv {
+	COLOR: #dd1144
+}
+.dec {
+	COLOR: teal
+}
+.var {
+	COLOR: teal
+}
+.fun {
+	COLOR: #dc322f
+}
+
+/*blockquote*/
+.postBody blockquote {
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left: 0px;
+    border: none;
+}
+
+.postBody blockquote {
+  border-left: 4px solid #dddddd;
+  padding: 0 15px;
+  color: #777777; 
+}
+.postBody blockquote > :first-child {
+  margin-top: 0; 
+}
+.postBody blockquote > :last-child {
+  margin-bottom: 0; 
+}
+	
+/*override cnblogs*/
+.postBody li {
+    margin-bottom: 0;
+}
+
+.postBody h1  {
+    padding-bottom: .3em;
+    border-bottom: 1px solid #eee;
+}
+
+#topics {
+    overflow: inherit; 
+}
+
+#topics .postTitle {
+    border-left: 3px solid #21759b;
+    margin-bottom: 16px;
+    font-size: 24px;
+    float: right;
+    width: 100%;
+    clear: both;
+}
+
+.postTitle a {
+	padding-left: 10px;
 }
