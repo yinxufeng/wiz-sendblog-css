@@ -1,0 +1,60 @@
+PRE {
+	MARGIN: 8px 0px
+}
+PRE CODE {
+	BORDER-TOP-STYLE: none; WORD-WRAP: break-word; MAX-WIDTH: 100%; BORDER-LEFT-STYLE: none; BACKGROUND: none transparent scroll repeat 0% 0%; WHITE-SPACE: pre; BORDER-BOTTOM-STYLE: none; PADDING-BOTTOM: 0px; PADDING-TOP: 0px; BORDER-RIGHT-STYLE: none; PADDING-LEFT: 0px; MARGIN: 0px; PADDING-RIGHT: 0px
+}
+PRE {
+	FONT-SIZE: 13px; OVERFLOW: auto; BORDER-TOP: #cccccc 1px solid; BORDER-RIGHT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; PADDING-BOTTOM: 6px; PADDING-TOP: 6px; PADDING-LEFT: 10px; BORDER-LEFT: #cccccc 1px solid; LINE-HEIGHT: 19px; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #f8f8f8; border-radius: 3px
+}
+PRE CODE {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent
+}
+PRE TT {
+	BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BACKGROUND-COLOR: transparent
+}
+PRE {
+	FONT-FAMILY: Consolas, "Liberation Mono", Menlo, Courier, monospace
+}
+PRE.prettyprint {
+	BORDER-TOP: #e1e1e8 1px solid; BORDER-RIGHT: #e1e1e8 1px solid; BORDER-BOTTOM: #e1e1e8 1px solid; PADDING-BOTTOM: 10px; PADDING-TOP: 10px; PADDING-LEFT: 10px; BORDER-LEFT: #e1e1e8 1px solid; PADDING-RIGHT: 10px; BACKGROUND-COLOR: #f7f7f9
+}
+PRE.linenums.prettyprint {
+	box-shadow: 40px 0 0 #FBFBFC inset, 41px 0 0 #ECECF0 inset
+}
+PRE.linenums.prettyprint OL.linenums {
+	MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px; COLOR: #1e347b; PADDING-LEFT: 30px !important
+}
+PRE.linenums.prettyprint OL.linenums LI {
+	COLOR: #bebec5; PADDING-LEFT: 12px !important; LINE-HEIGHT: 18px
+}
+PRE.linenums.prettyprint OL.linenums LI.L0 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L1 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L2 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L3 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L4 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L5 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L6 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L7 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L8 {
+	LIST-STYLE-TYPE: decimal !important
+}
+PRE.linenums.prettyprint OL.linenums LI.L9 {
+	LIST-STYLE-TYPE: decimal !important
+}
